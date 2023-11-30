@@ -1,7 +1,6 @@
 # Obfuscated with MD XR
 # https://www.github.com/jony404
-#
-Encoded by MD XR
+#Encoded by MD XR
 # Time : Thu Nov 30 17:50:14 2023
 # -------------------------------
 
